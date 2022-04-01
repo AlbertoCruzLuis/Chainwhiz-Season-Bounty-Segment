@@ -10,7 +10,7 @@
 
 > Chainwhiz Bounty - Create a carousel of bounties.
 
-<a href="https://chainwhiz-bounty-team-section.vercel.app/" target="_blank">
+<a href="https://chainwhiz-season-bounty-segment.vercel.app/" target="_blank">
   <img alt="Page" src="public/images/BountySeason.png" />
 </a>
 
